@@ -1,6 +1,11 @@
 {
-    "intro": {
+    "intro": [{
         "title": "👋 Hello",
-        "content": "A simple container to divide your page into sections, like the one you're currently reading. Hi, This is sone test data"
+        "content": "Hi! I have always been curious about the stuff that revolutionises the way people live, think and breath. I remember the time, I was still a school kid when my dad brought the first mobile phone in our home. Thinking back, if mobiles had never been invented, never reached us, we would still be indifferent about the sheer existence of such a device, and would function normally as a society, but, now we can not imagine our lives without one.\nThis had a lasting impact on me. Tech can change the world in ways people might not even imagine. With a passion to create change in society for betterment, I studied Industrial Design, in my undergrad, from National Institute of Technology (N.I.T.), Rourkela, which allowed me to explore quantitative and computational subjects. This in turn amplified my interest in computation, economics and human behaviour.\nHaving worked with technologies like AR, 3D modelling and User Research, I currently work at the intersection of mathematics, Tech and finance with help of blockchain, which I feel, can revolutionalize modern financial systems."
+    },
+    {
+        "title": "👋 Hi",
+        "content": "Integer tincidunt ex mi, quis aliquam magna rhoncus ut. Phasellus sit amet molestie arcu. Phasellus facilisis id orci non ultricies. Cras ex arcu, ultricies vel gravida quis, congue vitae neque. Maecenas ante metus, elementum quis libero tempus, tristique posuere turpis. Aliquam erat volutpat. Maecenas placerat ante non ipsum rutrum, sed fermentum orci tempus. In fermentum scelerisque est, eget eleifend augue mollis at. Maecenas ut ornare metus. Fusce at nunc non sapien porta tincidunt. Donec sollicitudin ligula id tincidunt tincidunt."
     }
+    ]
 }
