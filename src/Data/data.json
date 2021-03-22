@@ -32,6 +32,17 @@
         }
        ],
         "type": "img"
+    },
+    {
+        "title": "💡 Where I am contributing",
+        "content": [{
+            "url": "https://raw.githubusercontent.com/deckgo/deckdeckgo/main/site/static/assets/icons/deckdeckgo.svg",
+            "text": "DeckDeckGo",
+            "link": "https://deckdeckgo.com/en/",
+            "position": "Open Source "
+        }
+       ],
+        "type": "img"
     }
     ]
 }
