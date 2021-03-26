@@ -5,7 +5,7 @@
         "type": "text"
     },
     {
-        "title": "👨‍💻 Where I have worked",
+        "title": "👨‍💻 Workplaces",
         "content": [{
             "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/IIT_Guwahati_Logo.svg/1024px-IIT_Guwahati_Logo.svg.png",
             "text": "I.I.T. Guwahati",
@@ -34,7 +34,7 @@
         "type": "img"
     },
     {
-        "title": "💡 Where I am contributing",
+        "title": "💡 Opensource",
         "content": [{
             "url": "https://raw.githubusercontent.com/deckgo/deckdeckgo/main/site/static/assets/icons/deckdeckgo.svg",
             "text": "DeckDeckGo",
